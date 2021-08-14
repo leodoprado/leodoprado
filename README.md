@@ -1,8 +1,8 @@
 ### Hey welcome!!
 <div>
   <a href="https://github.com/leodoprado">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leodoprado&show_icons=true&theme=maroongold&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodoprado&layout=compact&langs_count=7&theme=maroongold&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leodoprado&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodoprado&layout=compact&langs_count=7&theme=nord&hide_border=true"/>
 </div>
   
   ##
