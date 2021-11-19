@@ -1,4 +1,4 @@
-### Hey welcome!!
+### Hey welcome👋
 <div>
   <a href="https://github.com/leodoprado">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=leodoprado&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
