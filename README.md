@@ -16,5 +16,5 @@
   ### Contacts
   <a href = "mailto:leonardodoprado231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="mailto:leonardodoprado0@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"    target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-do-prado-28bb11208/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"    target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/leodoprado/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"    target="_blank"></a> 
  <a href="https://t.me/leodoprado" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
