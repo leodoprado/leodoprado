@@ -1,10 +1,9 @@
 ## Hey welcome to my profile
 ### I'am Leo
 
-<p>· Technology enthusiast and all it has to offer
 <p>· Graduating in Computer Science at URI Erechim
-<p>· Studying English on online platforms
-<p>· Digital game lover
+<p>· Technology enthusiast and all it has to offer
+<p>· Besides technology, I love studying finance
 
 *Always looking for the next level.*
 <div>
