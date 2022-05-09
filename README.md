@@ -1,10 +1,6 @@
 ## Hey welcome to my profile
 ### I'am Leo
 
-<p>· Graduating in Computer Science at URI Erechim
-<p>· Technology enthusiast and all it has to offer
-<p>· Besides technology, I love studying finance
-
 *Always looking for the next level.*
 <div>
   <a href="https://github.com/leodoprado">
