@@ -14,6 +14,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   
   ### 💬 Talk to me
+  
   <a href="https://linkedin.com/in/leodoprado" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-leodoprado-05122A?style=flat&logo=linkedin" alt="linkedin"/>
   </a>
@@ -22,6 +23,6 @@
     <img align="center" src="https://img.shields.io/badge/-leodoprado-05122A?style=flat&logo=telegram" alt="telegram"/>
   </a>
   
-  <a href="leonardodoprado231@gmail.com" target="_blank">
+  <a href="mailto:leonardodoprado231@gmail.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-leonardodoprado231@gmail.com-05122A?style=flat&logo=gmail" alt="telegram"/>
   </a>
