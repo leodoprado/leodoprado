@@ -7,15 +7,21 @@
   
   ### 🛠️ My tools
   
-  <div>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-    <img height="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>  
-  </div>
+  ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+  ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+  ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+  ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
   
   ### 💬 Talk to me
-  <a href = "mailto:leonardodoprado231@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="mailto:leonardodoprado0@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"    target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leodoprado/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"    target="_blank"></a> 
- <a href="https://t.me/leodoprado" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/leodoprado" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-leodoprado-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  
+  <a href="https://t.me/leodoprado" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-leodoprado-05122A?style=flat&logo=telegram" alt="telegram"/>
+  </a>
+  
+  <a href="leonardodoprado231@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-leonardodoprado231@gmail.com-05122A?style=flat&logo=gmail" alt="telegram"/>
+  </a>
