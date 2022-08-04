@@ -24,6 +24,6 @@
     <img align="center" src="https://img.shields.io/badge/-leodoprado-05122A?style=flat&logo=telegram" alt="telegram"/>
   </a>
   
-  <a href="mailto:leonardodoprado231@gmail.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-leonardodoprado231@gmail.com-05122A?style=flat&logo=gmail" alt="telegram"/>
+  <a href="mailto:leodoprado01@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-leodoprado01@gmail.com-05122A?style=flat&logo=gmail" alt="telegram"/>
   </a>
