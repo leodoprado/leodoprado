@@ -2,6 +2,8 @@
 ### I'am Leo
 
 *Always looking for the next level.*
+
+* Studying computer science and english
   
   <hr>
   
