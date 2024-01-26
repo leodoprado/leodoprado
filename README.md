@@ -1,9 +1,10 @@
 ## Hey welcome to my profile
 ### I'am Leo
 
-*Always looking for the next level.*
+🎓 Studying computer science
 
-* *Studying computer science and english*
+![Coding](https://user-images.githubusercontent.com/34418187/202911326-559ae103-550c-40dc-a404-4c7ca2eeb777.gif)  
+*- Always looking for the next level.*
   
   <hr>
   
