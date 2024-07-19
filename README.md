@@ -9,12 +9,14 @@
   <hr>
   
   ### 🛠️ My tools
-  <div display="flex">
-    <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-    <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-    <img height="35em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
-              
-  <div/>
+  
+  <div align="left">
+    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+  </div>
   
   ### 📧 Let's connect
 
