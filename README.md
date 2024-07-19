@@ -15,7 +15,7 @@
     <img width="12" />
     <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="postgresql logo"  />
+    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
   </div>
   
   ### 📧 Let's connect
