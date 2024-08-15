@@ -11,11 +11,13 @@
   ### 🛠️ My tools
   
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="java logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring logo"  />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="spring logo"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="mysql logo"  />
+    <img width="12" />
+    <img src="https://skillicons.dev/icons?i=postgres" height="45" alt="mysql logo"  />
   </div>
   
   ### 📧 Let's connect
