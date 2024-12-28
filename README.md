@@ -11,11 +11,11 @@
   ### 🛠️ My tools
   
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="react"  />
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="react"  />
+    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="node"  />
+    <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring boot"  />
   </div>
   
   ### 📧 Let's connect
