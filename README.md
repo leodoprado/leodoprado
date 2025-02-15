@@ -1,22 +1,26 @@
-## Hey welcome to my profile
+## Hey welcome to my profile👋🏻
 
-### I'am Leo
+### I'am Leo 👨🏻‍💻
 
-👨🏻‍💻 Studying Computer Science
-  
-*- Always looking for the next level.*
-  
-  <hr>
-  
-  ### 🛠️ My tools
+🎓 Computer Scientist (2021-2024) <br/>
+💬 Studying the English language... <br/>
+🖥️ Specializing in Front-end development... <br/>
+
+<hr>
+
+### 🛠️ My tools
   
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="git"  />
+    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=java" height="45" alt="java"  />
+    <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="Typescript"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=spring" height="45" alt="spring boot"  />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"  />
   </div>
+  
+  <br/>
+  
+*- Always looking for the next level.*
   
   ### 📧 Let's connect
 
