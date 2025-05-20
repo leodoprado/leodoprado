@@ -13,9 +13,8 @@
   <div align="left">
     <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="Typescript"  />
+    <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java"  />
     <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"  />
   </div>
   
   <br/>
