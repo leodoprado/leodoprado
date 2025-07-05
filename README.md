@@ -11,8 +11,6 @@
 ### 🛠️ My tools
   
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"  />
-    <img width="12" />
     <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="Java"  />
     <img width="12" />
   </div>
