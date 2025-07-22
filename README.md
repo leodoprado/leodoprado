@@ -4,14 +4,14 @@
 
 🎓 Computer Science graduate (2021–2024) at URI Erechim <br/>
 🗣️ Currently studying English  <br/>
-🎯 Software development with a focus on the .NET ecosystem <br/>
+🎯 Software development <br/>
 
 <hr>
 
 ### 🛠️ My tools
   
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="Java"  />
+    <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript"  />
     <img width="12" />
   </div>
   
