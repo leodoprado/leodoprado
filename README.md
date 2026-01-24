@@ -4,7 +4,7 @@
 
 🎓 Computer Science graduate (2021–2024) at URI Erechim <br/>
 🗣️ Currently studying English  <br/>
-🎯 Software development <br/>
+🎯 Software Engineer <br/>
 
 <hr>
 
