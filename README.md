@@ -3,7 +3,6 @@
 ### I'am Leo 👨🏻‍💻
 
 🎓 Computer Science graduate (2021–2024) at URI Erechim <br/>
-🗣️ Currently studying English  <br/>
 🎯 Software Engineer <br/>
 
 <hr>
@@ -12,6 +11,8 @@
   
   <div align="left">
     <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript"  />
+    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"  />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node"  />
     <img width="12" />
   </div>
   
