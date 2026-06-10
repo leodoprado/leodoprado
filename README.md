@@ -10,9 +10,9 @@
 ### 🛠️ My tools
   
   <div align="left">
-    <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript"  />
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React"  />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node"  />
+    <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#"  />
+    <img src="https://skillicons.dev/icons?i=net" height="45" alt=".NET"  />
+    <img src="https://skillicons.dev/icons?i=azure" height="45" alt="Azure"  />
     <img width="12" />
   </div>
   
