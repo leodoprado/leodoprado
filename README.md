@@ -1,11 +1,4 @@
-## Hey welcome to my profile👋🏻
-
-### I'am Leo 👨🏻‍💻
-
-🎓 Computer Science graduate (2021–2024) at URI Erechim <br/>
-🎯 Software Engineer <br/>
-
-<hr>
+## Hey welcome to my profile 👨🏻‍💻👋🏻
 
 ### 🛠️ My tools
   
